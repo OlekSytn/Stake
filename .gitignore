@@ -64,3 +64,15 @@ yarn-error.log*
 .netlify
 *.tsbuildinfo
 *.stackdump
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
